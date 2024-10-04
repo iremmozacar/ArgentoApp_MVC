@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Backend", "Backend", "{80066B4A-5533-4520-AF0A-7312AD095930}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArgentoApp.Backend.API", "Backend\ArgentoApp.Backend.API\ArgentoApp.Backend.API.csproj", "{8E53429C-61D4-4C49-9751-DB75DB377AAB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frontend", "Frontend", "{40E00761-9DE6-4B14-89F3-BEB975BEA533}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArgentoApp.Frontend.Mvc", "Frontend\ArgentoApp.Frontend.Mvc\ArgentoApp.Frontend.Mvc.csproj", "{486A93F2-F509-4CE1-B0F8-F2A550B945BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E53429C-61D4-4C49-9751-DB75DB377AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E53429C-61D4-4C49-9751-DB75DB377AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E53429C-61D4-4C49-9751-DB75DB377AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E53429C-61D4-4C49-9751-DB75DB377AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{486A93F2-F509-4CE1-B0F8-F2A550B945BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{486A93F2-F509-4CE1-B0F8-F2A550B945BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{486A93F2-F509-4CE1-B0F8-F2A550B945BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{486A93F2-F509-4CE1-B0F8-F2A550B945BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8E53429C-61D4-4C49-9751-DB75DB377AAB} = {80066B4A-5533-4520-AF0A-7312AD095930}
+		{486A93F2-F509-4CE1-B0F8-F2A550B945BD} = {40E00761-9DE6-4B14-89F3-BEB975BEA533}
+	EndGlobalSection
+EndGlobal
