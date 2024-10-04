@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoAoo.Frontend.Mvc/ArgentoAoo.Frontend.Mvc.csproj",
-      "projectName": "ArgentoAoo.Frontend.Mvc",
-      "projectPath": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoAoo.Frontend.Mvc/ArgentoAoo.Frontend.Mvc.csproj",
+      "projectUniqueName": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/ArgentoApp.Frontend.Mvc.csproj",
+      "projectName": "ArgentoApp.Frontend.Mvc",
+      "projectPath": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/ArgentoApp.Frontend.Mvc.csproj",
       "packagesPath": "/Users/iremozacar/.nuget/packages/",
-      "outputPath": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoAoo.Frontend.Mvc/obj/",
+      "outputPath": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/iremozacar/.nuget/NuGet/NuGet.Config"

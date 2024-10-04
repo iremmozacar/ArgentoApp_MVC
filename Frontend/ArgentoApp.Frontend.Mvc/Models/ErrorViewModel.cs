@@ -1,4 +1,4 @@
-namespace ArgentoAoo.Frontend.Mvc.Models;
+namespace ArgentoApp.Frontend.Mvc.Models;
 
 public class ErrorViewModel
 {
