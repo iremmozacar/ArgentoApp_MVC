@@ -1,0 +1,509 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/obj/Debug/net8.0/scopedcss/projectbundle/ArgentoApp.Frontend.Mvc.bundle.scp.css",
+      "PackagePath": "staticwebassets/ArgentoApp.Frontend.Mvc.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/css/bootstrap.css",
+      "PackagePath": "staticwebassets/ui/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/ui/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/css/owl.carousel.css",
+      "PackagePath": "staticwebassets/ui/css/owl.carousel.css"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/css/owl.theme.css",
+      "PackagePath": "staticwebassets/ui/css/owl.theme.css"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/css/owl.transitions.css",
+      "PackagePath": "staticwebassets/ui/css/owl.transitions.css"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/css/prettyPhoto.css",
+      "PackagePath": "staticwebassets/ui/css/prettyPhoto.css"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/css/spinner.css",
+      "PackagePath": "staticwebassets/ui/css/spinner.css"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/css/ui.css",
+      "PackagePath": "staticwebassets/ui/css/ui.css"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/font-awesome/css/font-awesome.css",
+      "PackagePath": "staticwebassets/ui/font-awesome/css/font-awesome.css"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/font-awesome/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/ui/font-awesome/css/font-awesome.min.css"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/font-awesome/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/ui/font-awesome/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/font-awesome/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/ui/font-awesome/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/font-awesome/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/ui/font-awesome/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/font-awesome/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/ui/font-awesome/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/font-awesome/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/ui/font-awesome/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/font-awesome/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/ui/font-awesome/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/fonts/glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets/ui/fonts/glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/fonts/glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets/ui/fonts/glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/fonts/glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets/ui/fonts/glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/fonts/glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets/ui/fonts/glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/fonts/glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets/ui/fonts/glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/3-girls.jpg",
+      "PackagePath": "staticwebassets/ui/images/3-girls.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/3-jacket.jpg",
+      "PackagePath": "staticwebassets/ui/images/3-jacket.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/3-man.jpg",
+      "PackagePath": "staticwebassets/ui/images/3-man.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/3-shoe.jpg",
+      "PackagePath": "staticwebassets/ui/images/3-shoe.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/3-sneak.jpg",
+      "PackagePath": "staticwebassets/ui/images/3-sneak.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/AjaxLoader.gif",
+      "PackagePath": "staticwebassets/ui/images/AjaxLoader.gif"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/acc.jpg",
+      "PackagePath": "staticwebassets/ui/images/acc.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/al-left.jpg",
+      "PackagePath": "staticwebassets/ui/images/al-left.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/arrival.jpg",
+      "PackagePath": "staticwebassets/ui/images/arrival.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/author.jpg",
+      "PackagePath": "staticwebassets/ui/images/author.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/bag-white.png",
+      "PackagePath": "staticwebassets/ui/images/bag-white.png"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/bag.png",
+      "PackagePath": "staticwebassets/ui/images/bag.png"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/banner-bg-2.jpg",
+      "PackagePath": "staticwebassets/ui/images/banner-bg-2.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/banner-bg.jpg",
+      "PackagePath": "staticwebassets/ui/images/banner-bg.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/bg-offers.jpg",
+      "PackagePath": "staticwebassets/ui/images/bg-offers.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/blog-1.jpg",
+      "PackagePath": "staticwebassets/ui/images/blog-1.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/blog-2.jpg",
+      "PackagePath": "staticwebassets/ui/images/blog-2.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/blog-3.jpg",
+      "PackagePath": "staticwebassets/ui/images/blog-3.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/blog-4.jpg",
+      "PackagePath": "staticwebassets/ui/images/blog-4.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/brand-1.png",
+      "PackagePath": "staticwebassets/ui/images/brand-1.png"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/brand-2.png",
+      "PackagePath": "staticwebassets/ui/images/brand-2.png"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/brand-3.png",
+      "PackagePath": "staticwebassets/ui/images/brand-3.png"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/brand-4.png",
+      "PackagePath": "staticwebassets/ui/images/brand-4.png"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/brand-5.png",
+      "PackagePath": "staticwebassets/ui/images/brand-5.png"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/brand-6.png",
+      "PackagePath": "staticwebassets/ui/images/brand-6.png"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/brand-7.png",
+      "PackagePath": "staticwebassets/ui/images/brand-7.png"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/brand-8.png",
+      "PackagePath": "staticwebassets/ui/images/brand-8.png"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/brand-9.png",
+      "PackagePath": "staticwebassets/ui/images/brand-9.png"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/cat-1.jpg",
+      "PackagePath": "staticwebassets/ui/images/cat-1.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/cat-2.jpg",
+      "PackagePath": "staticwebassets/ui/images/cat-2.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/cat-3.jpg",
+      "PackagePath": "staticwebassets/ui/images/cat-3.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/comment.jpg",
+      "PackagePath": "staticwebassets/ui/images/comment.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/det-3-2.jpg",
+      "PackagePath": "staticwebassets/ui/images/det-3-2.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/det-3-3.jpg",
+      "PackagePath": "staticwebassets/ui/images/det-3-3.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/det-3.jpg",
+      "PackagePath": "staticwebassets/ui/images/det-3.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/disc.jpg",
+      "PackagePath": "staticwebassets/ui/images/disc.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/down-drk.png",
+      "PackagePath": "staticwebassets/ui/images/down-drk.png"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/down.png",
+      "PackagePath": "staticwebassets/ui/images/down.png"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/dummy-slide.png",
+      "PackagePath": "staticwebassets/ui/images/dummy-slide.png"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/free.jpg",
+      "PackagePath": "staticwebassets/ui/images/free.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/girls.jpg",
+      "PackagePath": "staticwebassets/ui/images/girls.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/grabbing.png",
+      "PackagePath": "staticwebassets/ui/images/grabbing.png"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/kids.jpg",
+      "PackagePath": "staticwebassets/ui/images/kids.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/list-1.png",
+      "PackagePath": "staticwebassets/ui/images/list-1.png"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/list-2.png",
+      "PackagePath": "staticwebassets/ui/images/list-2.png"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/logo-ft-white.png",
+      "PackagePath": "staticwebassets/ui/images/logo-ft-white.png"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/logo-gld.png",
+      "PackagePath": "staticwebassets/ui/images/logo-gld.png"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/logo-white.png",
+      "PackagePath": "staticwebassets/ui/images/logo-white.png"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/logo.png",
+      "PackagePath": "staticwebassets/ui/images/logo.png"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/man.jpg",
+      "PackagePath": "staticwebassets/ui/images/man.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/mega-offers.jpg",
+      "PackagePath": "staticwebassets/ui/images/mega-offers.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/oth.jpg",
+      "PackagePath": "staticwebassets/ui/images/oth.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/p-1.jpg",
+      "PackagePath": "staticwebassets/ui/images/p-1.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/p-2.jpg",
+      "PackagePath": "staticwebassets/ui/images/p-2.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/p-3.jpg",
+      "PackagePath": "staticwebassets/ui/images/p-3.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/p-4.jpg",
+      "PackagePath": "staticwebassets/ui/images/p-4.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/p-5.jpg",
+      "PackagePath": "staticwebassets/ui/images/p-5.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/p-6.jpg",
+      "PackagePath": "staticwebassets/ui/images/p-6.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/p-7.jpg",
+      "PackagePath": "staticwebassets/ui/images/p-7.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/p-8.jpg",
+      "PackagePath": "staticwebassets/ui/images/p-8.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/p-9.jpg",
+      "PackagePath": "staticwebassets/ui/images/p-9.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/pav.png",
+      "PackagePath": "staticwebassets/ui/images/pav.png"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/paypal.png",
+      "PackagePath": "staticwebassets/ui/images/paypal.png"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/rec-1.jpg",
+      "PackagePath": "staticwebassets/ui/images/rec-1.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/rec-2.jpg",
+      "PackagePath": "staticwebassets/ui/images/rec-2.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/rec-3.jpg",
+      "PackagePath": "staticwebassets/ui/images/rec-3.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/rec-blog-1.jpg",
+      "PackagePath": "staticwebassets/ui/images/rec-blog-1.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/rec-blog-2.jpg",
+      "PackagePath": "staticwebassets/ui/images/rec-blog-2.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/rec-blog-3.jpg",
+      "PackagePath": "staticwebassets/ui/images/rec-blog-3.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/slider-1.jpg",
+      "PackagePath": "staticwebassets/ui/images/slider-1.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/slider-2.jpg",
+      "PackagePath": "staticwebassets/ui/images/slider-2.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/srch-2.png",
+      "PackagePath": "staticwebassets/ui/images/srch-2.png"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/srch.png",
+      "PackagePath": "staticwebassets/ui/images/srch.png"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/star-off.png",
+      "PackagePath": "staticwebassets/ui/images/star-off.png"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/star-on.png",
+      "PackagePath": "staticwebassets/ui/images/star-on.png"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/team-1.jpg",
+      "PackagePath": "staticwebassets/ui/images/team-1.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/team-2.jpg",
+      "PackagePath": "staticwebassets/ui/images/team-2.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/team-3.jpg",
+      "PackagePath": "staticwebassets/ui/images/team-3.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/team-4.jpg",
+      "PackagePath": "staticwebassets/ui/images/team-4.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/thumb-1.jpg",
+      "PackagePath": "staticwebassets/ui/images/thumb-1.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/thumb-2.jpg",
+      "PackagePath": "staticwebassets/ui/images/thumb-2.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/thumb-3.jpg",
+      "PackagePath": "staticwebassets/ui/images/thumb-3.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/thumb-shop-det-1.jpg",
+      "PackagePath": "staticwebassets/ui/images/thumb-shop-det-1.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/thumb-shop-det-2.jpg",
+      "PackagePath": "staticwebassets/ui/images/thumb-shop-det-2.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/thumb-shop-det-3.jpg",
+      "PackagePath": "staticwebassets/ui/images/thumb-shop-det-3.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/val-min.png",
+      "PackagePath": "staticwebassets/ui/images/val-min.png"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/val-plus.png",
+      "PackagePath": "staticwebassets/ui/images/val-plus.png"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/images/watch.jpg",
+      "PackagePath": "staticwebassets/ui/images/watch.jpg"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/js/bootstrap.js",
+      "PackagePath": "staticwebassets/ui/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/ui/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/js/jquery.prettyPhoto.js",
+      "PackagePath": "staticwebassets/ui/js/jquery.prettyPhoto.js"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/js/jquery.raty.js",
+      "PackagePath": "staticwebassets/ui/js/jquery.raty.js"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/js/jquery.selectbox-0.2.js",
+      "PackagePath": "staticwebassets/ui/js/jquery.selectbox-0.2.js"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/js/jquery.spinner.js",
+      "PackagePath": "staticwebassets/ui/js/jquery.spinner.js"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/js/library.js",
+      "PackagePath": "staticwebassets/ui/js/library.js"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/js/npm.js",
+      "PackagePath": "staticwebassets/ui/js/npm.js"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/js/owl.carousel.js",
+      "PackagePath": "staticwebassets/ui/js/owl.carousel.js"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/js/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/ui/js/owl.carousel.min.js"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/js/theme-script.js",
+      "PackagePath": "staticwebassets/ui/js/theme-script.js"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/js/ui.js",
+      "PackagePath": "staticwebassets/ui/js/ui.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.ArgentoApp.Frontend.Mvc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.ArgentoApp.Frontend.Mvc.props",
+      "PackagePath": "build\\ArgentoApp.Frontend.Mvc.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ArgentoApp.Frontend.Mvc.props",
+      "PackagePath": "buildMultiTargeting\\ArgentoApp.Frontend.Mvc.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ArgentoApp.Frontend.Mvc.props",
+      "PackagePath": "buildTransitive\\ArgentoApp.Frontend.Mvc.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
