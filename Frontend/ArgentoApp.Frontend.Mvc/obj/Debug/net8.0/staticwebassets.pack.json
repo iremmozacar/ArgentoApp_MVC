@@ -29,8 +29,16 @@
       "PackagePath": "staticwebassets/ui/css/prettyPhoto.css"
     },
     {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/css/responsive.css",
+      "PackagePath": "staticwebassets/ui/css/responsive.css"
+    },
+    {
       "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/css/spinner.css",
       "PackagePath": "staticwebassets/ui/css/spinner.css"
+    },
+    {
+      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/css/style.css",
+      "PackagePath": "staticwebassets/ui/css/style.css"
     },
     {
       "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/css/ui.css",

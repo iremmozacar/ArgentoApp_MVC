@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hdgQLzfzD7LBtPRSpZoOofU/OcbyCHYRnDkBbZobZvU=",
+  "Hash": "q+Ahz+HZv1GRecJ7fxH4TlHyAIlwAXm2/T/1cHPfWlg=",
   "Source": "ArgentoApp.Frontend.Mvc",
   "BasePath": "_content/ArgentoApp.Frontend.Mvc",
   "Mode": "Default",
@@ -169,6 +169,25 @@
       "OriginalItemSpec": "wwwroot/ui/css/prettyPhoto.css"
     },
     {
+      "Identity": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/css/responsive.css",
+      "SourceId": "ArgentoApp.Frontend.Mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/",
+      "BasePath": "_content/ArgentoApp.Frontend.Mvc",
+      "RelativePath": "ui/css/responsive.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/ui/css/responsive.css"
+    },
+    {
       "Identity": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/css/spinner.css",
       "SourceId": "ArgentoApp.Frontend.Mvc",
       "SourceType": "Discovered",
@@ -186,6 +205,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/ui/css/spinner.css"
+    },
+    {
+      "Identity": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/css/style.css",
+      "SourceId": "ArgentoApp.Frontend.Mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/",
+      "BasePath": "_content/ArgentoApp.Frontend.Mvc",
+      "RelativePath": "ui/css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/ui/css/style.css"
     },
     {
       "Identity": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/css/ui.css",
