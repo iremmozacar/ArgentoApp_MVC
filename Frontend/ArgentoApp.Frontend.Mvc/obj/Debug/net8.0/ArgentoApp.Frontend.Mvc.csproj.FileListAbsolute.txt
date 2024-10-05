@@ -21,9 +21,7 @@
 /Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ArgentoApp.Frontend.Mvc.props
 /Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ArgentoApp.Frontend.Mvc.props
 /Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/obj/Debug/net8.0/staticwebassets.pack.json
-/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/obj/Debug/net8.0/scopedcss/bundle/ArgentoApp.Frontend.Mvc.styles.css
-/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/obj/Debug/net8.0/scopedcss/projectbundle/ArgentoApp.Frontend.Mvc.bundle.scp.css
 /Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/obj/Debug/net8.0/ArgentoApp.Frontend.Mvc.dll
 /Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/obj/Debug/net8.0/refint/ArgentoApp.Frontend.Mvc.dll
 /Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/obj/Debug/net8.0/ArgentoApp.Frontend.Mvc.pdb

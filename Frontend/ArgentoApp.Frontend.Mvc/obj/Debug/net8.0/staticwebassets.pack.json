@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/obj/Debug/net8.0/scopedcss/projectbundle/ArgentoApp.Frontend.Mvc.bundle.scp.css",
-      "PackagePath": "staticwebassets/ArgentoApp.Frontend.Mvc.bundle.scp.css"
-    },
-    {
       "Id": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/css/bootstrap.css",
       "PackagePath": "staticwebassets/ui/css/bootstrap.css"
     },

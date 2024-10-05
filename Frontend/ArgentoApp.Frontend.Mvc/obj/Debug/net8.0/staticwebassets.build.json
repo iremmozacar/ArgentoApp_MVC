@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "q+Ahz+HZv1GRecJ7fxH4TlHyAIlwAXm2/T/1cHPfWlg=",
+  "Hash": "7/NOMak7YxACe2QOsjSdCdA/+PIq8hZJZcR/XSOUi5U=",
   "Source": "ArgentoApp.Frontend.Mvc",
   "BasePath": "_content/ArgentoApp.Frontend.Mvc",
   "Mode": "Default",
@@ -16,44 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/obj/Debug/net8.0/scopedcss/bundle/ArgentoApp.Frontend.Mvc.styles.css",
-      "SourceId": "ArgentoApp.Frontend.Mvc",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/obj/Debug/net8.0/scopedcss/bundle/",
-      "BasePath": "_content/ArgentoApp.Frontend.Mvc",
-      "RelativePath": "ArgentoApp.Frontend.Mvc.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/obj/Debug/net8.0/scopedcss/bundle/ArgentoApp.Frontend.Mvc.styles.css"
-    },
-    {
-      "Identity": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/obj/Debug/net8.0/scopedcss/projectbundle/ArgentoApp.Frontend.Mvc.bundle.scp.css",
-      "SourceId": "ArgentoApp.Frontend.Mvc",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/obj/Debug/net8.0/scopedcss/projectbundle/",
-      "BasePath": "_content/ArgentoApp.Frontend.Mvc",
-      "RelativePath": "ArgentoApp.Frontend.Mvc.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/obj/Debug/net8.0/scopedcss/projectbundle/ArgentoApp.Frontend.Mvc.bundle.scp.css"
-    },
     {
       "Identity": "/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/wwwroot/ui/css/bootstrap.css",
       "SourceId": "ArgentoApp.Frontend.Mvc",
