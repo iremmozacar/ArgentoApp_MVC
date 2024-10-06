@@ -22,12 +22,44 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/Views/Shared/_BelieveNavPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19CZWxpZXZlTmF2UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/Views/Shared/_CatNavPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19DYXROYXZQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/Views/Shared/_CollapseNavbarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Db2xsYXBzZU5hdmJhclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/Views/Shared/_CollapseNavPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Db2xsYXBzZU5hdlBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/Views/Shared/_FooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Gb290ZXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/Views/Shared/_NavbarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19OYXZiYXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/Views/Shared/_SearchFormPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19TZWFyY2hGb3JtUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/Views/Shared/_WrapperPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19XcmFwcGVyUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/iremozacar/Documents/GitHub/ArgentoApp_MVC/Frontend/ArgentoApp.Frontend.Mvc/Views/_ViewImports.cshtml]
